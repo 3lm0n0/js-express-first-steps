@@ -1,0 +1,23 @@
+{
+  "name": "js-express-firt-steps",
+  "version": "1.0.0",
+  "description": "this are my first steps with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3lm0n0/js-express-first-steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3lm0n0/js-express-first-steps/issues"
+  },
+  "homepage": "https://github.com/3lm0n0/js-express-first-steps#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
